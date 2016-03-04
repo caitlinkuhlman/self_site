@@ -25,10 +25,17 @@
 .navbar-brand{
 	padding: 0 !important;
 }
-.navbar-nav {
-    margin-top: 20px;
-}
 
+
+.navbar-nav {
+    margin-top: 16px;
+    font-size: 18pt;
+    padding-left: 30px;
+    vertical-align: bottom;
+}
+.fa-lg {
+    font-size: 20pt !important;
+}
 /*Content
 -------------------------------------------------- */
 body {
